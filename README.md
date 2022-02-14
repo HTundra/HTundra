@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="http://i.picpar.com/tBpd.png" height="200px">
+   <img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" height="200px">
 </p>
 
 ## Introduction
