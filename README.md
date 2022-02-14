@@ -10,7 +10,7 @@ Hi! I'm Kent, a computer science student. Currently have my hands on a lot of th
 - - - - -
 ### My Github Stats
 [![Kent's Github Stats](https://vercel-repo-htundra.vercel.app/api?username=Htundra&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/Htundra)  
-[![Kent's Top Languages](https://vercel-repo-htundra.vercel.app/api/top-langs/?username=Htundra&layout=compact&theme=vue-dark)](https://github.com/Htundra)****
+[![Kent's Top Languages](https://vercel-repo-htundra.vercel.app/api/top-langs/?username=Htundra&layout=compact&theme=vue-dark)](https://github.com/Htundra)
 
 <!--
 **HTundra/HTundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
