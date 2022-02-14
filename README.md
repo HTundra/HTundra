@@ -1,4 +1,16 @@
-### Hi there 👋
+<p align="center">
+   <img src="http://i.picpar.com/tBpd.png" height="200px">
+</p>
+
+## Introduction
+Hi! I'm Kent, a computer science student. Currently have my hands on a lot of things (a lot of which aren't public, sadly). I mostly do web development (NodeJS, VueJS, etc.). Most of the stuff you'll see here are either pet projects or school projects.
+- - - - -
+### Here are some skills that I have
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/) [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://css3-tutorial.net/) [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![JQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/) [![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) [![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)](https://vuejs.org/) [![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/) [![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+- - - - -
+### My Github Stats
+[![Kent's Github Stats](https://github-readme-stats.vercel.app/api?username=htundra&show_icons=true&theme=vue-dark)](https://github.com/htundra)
+[![Kent's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htundra&layout=compact&theme=vue-dark)](https://github.com/htundra)****
 
 <!--
 **HTundra/HTundra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
